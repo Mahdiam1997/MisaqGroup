@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" role="img" aria-labelledby="logoTitle">
+<title id="logoTitle">نشان گروه میثاق</title>
+<defs><clipPath id="brickShape"><path d="M205 137 500 429 795 137V1000H205Z"/></clipPath></defs>
+<path fill="#050708" d="M0 0H120V1000H0zM880 0h120v1000H880z"/>
+<path fill="#ffbd30" d="M120 0h85v1000h-85zM795 0h85v1000h-85z"/>
+<path fill="#050708" d="M205 0h590v1000H205z"/>
+<g clip-path="url(#brickShape)" stroke="#889193" stroke-width="4" opacity=".82" fill="none">
+<path d="M205 250H795M205 355H795M205 460H795M205 565H795M205 670H795M205 775H795M205 880H795"/>
+<path d="M290 140V250M505 140V250M710 140V250M395 250V355M605 250V355M290 355V460M505 355V460M710 355V460M395 460V565M605 460V565M290 565V670M505 565V670M710 565V670M395 670V775M605 670V775M290 775V880M505 775V880M710 775V880M395 880V1000M605 880V1000"/>
+</g>
+<path fill="#ffbd30" d="M120 0H205L500 281 795 0H880L500 428Z"/>
+</svg>
