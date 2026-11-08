@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="نشان میثاق">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#3AF1FF"/><stop offset=".6" stop-color="#04ADEC"/><stop offset="1" stop-color="#0567AC"/></linearGradient></defs>
+<rect width="128" height="128" rx="27" fill="#0A2E3C"/>
+<path d="M13 19h13v91H13zm89 0h13v91h-13zM32 19h64L64 53zM32 40l32 31 32-31v20L64 91 32 60z" fill="url(#g)"/>
+<path d="M33 77h62v31H33z" fill="url(#g)"/>
+<path d="M33 87h62M33 98h62M56 77v11m15-0v10M46 98v10M81 98v10" stroke="#0A2E3C" stroke-width="3"/>
+<path d="M33 40 64 71l32-31" stroke="#99F8FF" stroke-width="2" fill="none"/>
+</svg>
